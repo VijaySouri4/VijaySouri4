@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Vijay Souri Maddila](https://www.linkedin.com/in/vijay-souri-maddila/), a passionate Machine Learning Engineer and full stack web developer. I love tinkering with new technology and always run after new things. I dirty my hands with all kinds of code ranging from model compressing byte codes and container creating cgroups codes to high level Machine Learning pipelines and Full stack Applications with React, Flutter, Firebase and AWS.  
+hi, i'm [Vijay Souri Maddila](https://www.linkedin.com/in/vijay-souri-maddila/), a passionate Machine Learning Engineer and full stack web developer. I love tinkering with new technology and always run after new things. I dirty my hands with all kinds of code ranging from model compressing byte codes and container creating cgroups to high level Machine Learning pipelines and Full stack Applications with React, Flutter, Firebase and AWS.  
 
 
   <img align="right" src="https://github.com/VijaySouri4/VijaySouri4/blob/master/cat_on_laptop.jpg?raw=true" width="300" height="320" />
